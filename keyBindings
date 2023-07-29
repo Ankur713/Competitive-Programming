@@ -1,0 +1,4 @@
+[
+	{ "keys": ["ctrl+q"], "command": "cancel_build" },
+	{ "keys": ["shift+space"], "command": "move", "args": {"by": "characters", "forward": true} }
+]
