@@ -1,4 +1,5 @@
 [
 	{ "keys": ["ctrl+q"], "command": "cancel_build" },
-	{ "keys": ["shift+space"], "command": "move", "args": {"by": "characters", "forward": true} }
+	{ "keys": ["shift+space"], "command": "move", "args": {"by": "characters", "forward": true} },
+	{ "keys": ["ctrl+w"], "command": "toggle_side_bar" }
 ]
